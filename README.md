@@ -21,16 +21,22 @@
 
 * Node.js
 * Express.js
-* REST APIs
+* NestJS
+
+### 💻 Programming Languages
+
+* JavaScript
+* TypeScript
 
 ### 🗄️ Database
 
-* MySQL
-* Knex.js
+* MySQL (with Knex.js)
 
-### ⚡ Caching & Performance
+### ⚙️ Development Practices
 
-* Redis
+* REST API Development
+* Clean Code Practices
+* Problem Solving
 
 ### ⚙️ Tools & DevOps
 
